@@ -53,7 +53,8 @@ h3 {
 	transition: transform 0.5s;
 	color: #ffffff;
 	border-radius: 10px;
-	 width: 45%;        /* <-- two tiles per row */
+	width: 45%;        /* <-- two tiles per row */
+	max-width: 350px;    /* <-- limit width on large screens */
     box-sizing: border-box;
 }
 
@@ -80,4 +81,10 @@ footer {
   line-height: 1.2;     /* tighter line spacing between footer lines */
   word-wrap: break-word;   /* prevents text from being smashed */
   margin-bottom: 0;    /* ensure no extra spacing */
+}
+
+@media (max-width: 600px) {
+	.tile {
+		width: 90%;     /* full width on small screens */
+	}
 }
