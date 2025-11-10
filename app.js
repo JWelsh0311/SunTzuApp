@@ -31,15 +31,6 @@ function buildSections(data) {
       `;
 
       tile.addEventListener("click", () => {
-        // Close all other tiles in the same section
-        const allContents = tilesContainer.querySelectorAll(".tile-content");
-        allContents.forEach(c => {
-          if (c !== content) {
-            c.style.display = "none";
-          }
-        });
-
-        // Toggle this one
         content.style.display =
           content.style.display === "block" ? "none" : "block";
       });
