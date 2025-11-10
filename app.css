@@ -1,6 +1,5 @@
 body {
 	margin: 0;
-	height: 100vh;
 	padding-bottom: 120px;  
 	background: radial-gradient(circle,
 	  #ffe6e6 0,
@@ -68,11 +67,12 @@ h3 {
 
 footer {
   position: relative;
-  bottom: 0;
   width: 100%;
   background-color: #990000;
-  padding: 10px 0;
+  padding: 15px 10px;
   text-align: center;
+  font-size: 14px;
   color: #ffffff;
   line-height: 1.2;     /* tighter line spacing between footer lines */
+  word-wrap: break-word;   /* prevents text from being smashed */
 }
