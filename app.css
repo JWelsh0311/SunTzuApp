@@ -76,4 +76,5 @@ footer {
   color: #ffffff;
   line-height: 1.2;     /* tighter line spacing between footer lines */
   word-wrap: break-word;   /* prevents text from being smashed */
+  margin-bottom: 0;    /* ensure no extra spacing */
 }
