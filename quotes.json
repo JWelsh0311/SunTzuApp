@@ -3,6 +3,10 @@
     {
       "name": "Leadership",
       "quotes": [
+		{
+          "quote": "He will win who has military capacity and is not interfered with by the sovereign.",
+          "application": "Allow your team leaders to lead their teams and use after actions to identify lessons learned. Micromanagement stifles unit flexibility and communication. Trust but verify."
+        },
         {
           "quote": "The general who wins the battle makes many calculations.",
           "application": "No plan survives first contact, but it provides something to pivot from and adjust. This includes contingencies."
@@ -37,6 +41,10 @@
     {
       "name": "Planning",
       "quotes": [
+		{
+          "quote": "The clever combatant looks to the effect of combined energy, and does not require too much from individuals.",
+          "application": "Disperse special tasking throughout your teams so no one team becomes overeburdened with specialized equipment and can focus their preparations. This allows your sub-elements to become more proficient in their specialized role from planning to execution."
+        },
         {
           "quote": "Victorious warriors win first and then go to war.",
           "application": "Deliberate planning makes use of time and other resources available. Make planning for contingencies and business continuity a part of your deliberate planning so that those plans exist for rapid response."
