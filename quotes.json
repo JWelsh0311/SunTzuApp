@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "name": "Leadership",
+      "quotes": [
+        {
+          "quote": "The general who wins the battle makes many calculations.",
+          "application": "Leaders must anticipate outcomes and prepare multiple contingencies."
+        },
+        {
+          "quote": "He will win whose army is animated by the same spirit throughout all its ranks.",
+          "application": "Good leaders build a strong unified team with shared intent."
+        }
+      ]
+    },
+    {
+      "name": "Intelligence",
+      "quotes": [
+        {
+          "quote": "Know the enemy and know yourself; in a hundred battles you will never be defeated.",
+          "application": "Intel gathering, reconnaissance, and situational awareness are critical."
+        },
+        {
+          "quote": "All warfare is based on deception.",
+          "application": "Small units must use concealment, unpredictability, and misdirection."
+        }
+      ]
+    },
+    {
+      "name": "Planning",
+      "quotes": [
+        {
+          "quote": "Victorious warriors win first and then go to war.",
+          "application": "Mission planning and rehearsal determine success before execution."
+        },
+        {
+          "quote": "A leader leads by example, not by force.",
+          "application": "Team leaders must demonstrate the behaviors they expect from their Marines or Soldiers."
+        }
+      ]
+    }
+  ]
+}
