@@ -1,6 +1,7 @@
 body {
+	min-height: 100vh;
 	margin: 0;
-	padding-bottom: 120px;  
+	padding-bottom: 0px;  
 	background: radial-gradient(circle,
 	  #ffe6e6 0,
 	  #ffcccc 50%,
