@@ -5,11 +5,15 @@
       "quotes": [
         {
           "quote": "The general who wins the battle makes many calculations.",
-          "application": "Leaders must anticipate outcomes and prepare multiple contingencies."
+          "application": "No plan survives first contact, but it provides something to pivot from and adjust. This includes contingencies."
         },
         {
           "quote": "He will win whose army is animated by the same spirit throughout all its ranks.",
-          "application": "Good leaders build a strong unified team with shared intent."
+          "application": "Keep your team informed of the how and the why. They should know, understand, and share the purpose and intent."
+        },
+        {
+          "quote": "A leader leads by example, not by force.",
+          "application": "If you don't exemplify the standards you preach, subordinates will take them as recommendations instead of rules. You will likely lose respect and compliance."
         }
       ]
     },
@@ -18,11 +22,15 @@
       "quotes": [
         {
           "quote": "Know the enemy and know yourself; in a hundred battles you will never be defeated.",
-          "application": "Intel gathering, reconnaissance, and situational awareness are critical."
+          "application": "Problem framing is the basis of decision-making. Understanding your goal and your capabilities allows you to maximize chances of success."
         },
         {
           "quote": "All warfare is based on deception.",
-          "application": "Small units must use concealment, unpredictability, and misdirection."
+          "application": "Misdirection makes people who want to induce friction waste their resources while you use yours more economically. Concealment applies to both observation and intent."
+        },
+        {
+          "quote": "Knowledge of the enemy’s dispositions can only be obtained from other men.",
+          "application": "Make use of information-gathering assets at your disposal no matter how small the endeavor. Specifically, human intelligence can tell you why the adversary is doing something."
         }
       ]
     },
@@ -31,11 +39,11 @@
       "quotes": [
         {
           "quote": "Victorious warriors win first and then go to war.",
-          "application": "Mission planning and rehearsal determine success before execution."
+          "application": "Deliberate planning makes use of time and other resources available. Make planning for contingencies and business continuity a part of your deliberate planning so that those plans exist for rapid response."
         },
         {
-          "quote": "A leader leads by example, not by force.",
-          "application": "Team leaders must demonstrate the behaviors they expect from their Marines or Soldiers."
+          "quote": "He who knows when he can fight and when he cannot, will be victorious.",
+          "application": "Pick and choose your verbal and physical battles. Both require resources such as personnel and time."
         }
       ]
     }
