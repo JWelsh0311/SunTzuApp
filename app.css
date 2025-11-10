@@ -40,6 +40,7 @@ h3 {
 	justify-content: center;
 	gap: 20px;      /* space between tiles */
 	margin: 50px 0; /* space above and below tile section */
+	flex-wrap: wrap;   /* <-- allows wrapping into multiple rows */
 }
 
 .tile {
@@ -52,6 +53,8 @@ h3 {
 	transition: transform 0.5s;
 	color: #ffffff;
 	border-radius: 10px;
+	 width: 45%;        /* <-- two tiles per row */
+    box-sizing: border-box;
 }
 
 .tile:hover {
