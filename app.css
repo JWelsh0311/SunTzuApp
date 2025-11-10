@@ -53,8 +53,8 @@ h3 {
 	transition: transform 0.5s;
 	color: #ffffff;
 	border-radius: 10px;
-	width: 45%;        /* <-- two tiles per row */
-	max-width: 350px;    /* <-- limit width on large screens */
+	 width: 300px;       /* fixed width for desktop */
+    max-width: 90%;     /* still flexible on small screens */
     box-sizing: border-box;
 }
 
